@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Dalil_Academy.API/Dalil_Academy.API.csproj" />
+  <Project Path="Dalil_Academy.Core/Dalil_Academy.Core.csproj" Id="811cfac1-57e9-45a2-bec3-d65cc2c725b4" />
+  <Project Path="Dalil_Academy.Infra/Dalil_Academy.Infra.csproj" Id="7cbc8930-01e4-466f-9c16-4b1c2c1abe08" />
+</Solution>
